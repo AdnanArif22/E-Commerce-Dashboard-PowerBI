@@ -19,7 +19,7 @@ An interactive, end-to-end **Power BI E-Commerce Analytics Dashboard** designed 
 ![Main Dashboard](Dashboard.png)
 
 ### 2. Product Detail View
-![Product Detail Dashboard](Product Detail Dashboard.png)
+![Product Detail Dashboard](Product_Detail_Dashboard.png)
 
 ---
 
