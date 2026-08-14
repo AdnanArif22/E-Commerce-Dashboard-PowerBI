@@ -53,11 +53,3 @@ Open the Dashboard: Double-click E-Commerce Visualization.pbix to launch the int
 🤝 Contributing & Feedback
 Feel free to fork this repository, explore the DAX measures, or suggest improvements by submitting a pull request or opening an issue!
 
-
-***
-
-### 💡 Tip
-To update your repository's README on GitHub:
-1. Click the edit pencil icon on `README.md` directly in GitHub, or edit it locally in VS Code.
-2. Paste the snippet above.
-3. Commit your changes!
